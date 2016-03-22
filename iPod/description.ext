@@ -1,0 +1,36 @@
+//=============================================================================================
+class CfgMusic
+{
+	tracks[]={};
+
+	class highway
+	{
+		name = "";
+		sound[] = {"\music\highway.ogg", db+0, 1.0};
+	};
+	class ride
+	{
+		name = "";
+		sound[] = {"\music\ride.ogg", db+0, 1.0};
+	};
+	class take
+	{
+		name = "";
+		sound[] = {"\music\take.ogg", db+0, 1.0};
+	};
+	class yes
+	{
+		name = "";
+		sound[] = {"\music\yes.ogg", db+0, 1.0};
+	};
+	class run
+	{
+		name = "";
+		sound[] = {"\music\run.ogg", db+0, 1.0};
+	};
+	class silence
+	{
+		name = "";
+		sound[] = {"\music\silence.ogg", db+0, 1.0};
+	};
+};
