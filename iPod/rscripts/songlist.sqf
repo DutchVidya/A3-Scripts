@@ -1,3 +1,8 @@
+/*
+I actually don't know why this script works. It's been taken from a much older script. However if you're going to add or subtract
+songs from the script, this needs to be done.
+*/
+
 _argument = _this select 3;
 
   switch (_argument) do {
