@@ -1,3 +1,8 @@
+/*
+Like any other Description.ext this will define the track names, as well as the volumes to play them at. 
+You may wish to make these louder
+*/
+
 //==============================================================================================
 class CfgSounds
 {
