@@ -1,3 +1,13 @@
+/*
+So, this is where the addaction itself is generated and looped.
+You can essentially copy a line and add it somewhere before the startsilence command.
+What's key to note, is this, always remember to add your track variable as "=0" under the hihway variable.
+Make sure to continue this change on the line you copy by using the correct variable.
+
+The second thing to note is the numbers after "songlist.sqf", for the first line, this is "1,2", and it continues up
+sequentially until just before the silence command. For the silence, this should be "0,2". I do not know why
+*/
+
 highway = 1;
 take=0;
 yes=0;
