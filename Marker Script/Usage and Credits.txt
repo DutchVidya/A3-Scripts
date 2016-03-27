@@ -1,0 +1,9 @@
+Script By : mbetts
+
+USAGE
+
+- Place the code from init.sqf file at the bottom of your init.sqf
+
+- rm1 is the marker
+
+- r1 is the unit
