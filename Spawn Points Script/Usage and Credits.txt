@@ -1,0 +1,18 @@
+Script By : mbetts
+
+USAGE
+
+- Put spawnpoints.sqf into your mission folder
+
+- Place down a trigger 
+
+- Enter this into the init of that unit:
+
+
+		null = [this] execVM "spawnpoints.sqf";
+
+
+- Run the game
+
+- The script is configured to run on a multiplayer and single player.
+
