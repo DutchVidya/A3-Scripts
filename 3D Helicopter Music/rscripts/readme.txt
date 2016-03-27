@@ -1,4 +1,4 @@
-###WHY SO MANY FILES DUDE?
+WHY SO MANY FILES DUDE?
 
 Honestly, because this was difficult. I need essentially a script for every new vehicle to have do music in 3D.
 So yes, there are 2 files for Gimme Shelter and so on.
