@@ -1,4 +1,4 @@
-﻿# The PA Script Package ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
+﻿# The PA Script Package 
 
 
 
@@ -9,7 +9,7 @@ All of these should be capable of running seperately, or even together, so some 
 Contributors:
 
 - DutchVidya
-- Mbetts
+- Mbetts                  ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
 - Rafael09ED
 
 
