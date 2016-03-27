@@ -1,6 +1,6 @@
-﻿# The Project Awesome Script Package
+﻿# The Project Awesome Script Package ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
 
-![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
+
 
 Originally just for my scripts (me, DutchVidya). Not long after making this git people started coming forward with ideas, recommendations and tweaks. So I guess this is as close to a PA Script pack as you can get.
 
