@@ -6,9 +6,9 @@ All of these should be capable of running seperately, or even together, so some 
 
 Contributors:
 
-- @DutchVidya
-- @matthewbetts96
-- @Rafael09ED
+@DutchVidya
+@matthewbetts96
+@Rafael09ED
 
 
 This script pack is in no way "offical", at the moment, other than it being a few dudes in PA hocking together nonesense like iPods and Suicide Vests. If it does beocme official thouhg, Oh boy!
