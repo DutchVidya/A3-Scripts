@@ -1,1 +1,0 @@
-arm = terrorist1 ["<t color=""#FC2B05"">Arm Bomb</t>"),"suicidebomb\armbomb.sqf",[1],1,true,true,"","_this == player"];
