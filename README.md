@@ -1,4 +1,4 @@
-﻿# The Project Awesome Script Package ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
+﻿# The PA Script Package ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
 
 
 
