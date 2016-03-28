@@ -1,10 +1,14 @@
-private ["_speakers"];
+private ["_speakerID"];
 
-_speakers = player getVariable "speakerList";
+_speakerID = player getVariable "speakerID";
 
+if(isNil "_speakerID") then
 {
-	detach _x;
-	deleteVehicle _x;
-} forEach _speakers;
-
-player setVariable ["speakerList", []];
+	_speakerID = objNull;
+};
+if((isNull _speakerID) isEqualTo false) then
+{
+	detach _speakerID;
+	deleteVehicle _speakerID;
+	player setVariable ["speakerID", objNull];
+};
