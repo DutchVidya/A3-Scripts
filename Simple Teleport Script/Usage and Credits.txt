@@ -1,0 +1,17 @@
+Script By : mbetts
+
+USAGE
+
+- Place a small object (a good one to use is a watch) where you'd like the players to teleport too.
+
+- Name this object ITEM_NAME 
+
+- Place down a trigger and a flagpole (the flagpole is just a visual reference for people and can be subbed for any object)
+
+- Inside the trigger place the code from Simple Teleport Sctipt.txt inside the triggers init.
+
+
+
+LIMITATIONS
+
+- This TP "script" is one way only.
