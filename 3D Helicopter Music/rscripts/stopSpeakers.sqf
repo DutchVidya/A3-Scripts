@@ -1,10 +1,10 @@
-private ["_speakers"];
+private ["_speakerID"];
 
-_speakers = player getVariable "speakerList";
+_speakerID = player getVariable "speakerID";
 
+if(_speakerID)
 {
-	detach _x;
-	deleteVehicle _x;
-} forEach _speakers;
-
-player setVariable ["speakerList", []];
+	detach _speakerID;
+	deleteVehicle _speakerID;
+	player setVariable ["speakerID", false];
+}
