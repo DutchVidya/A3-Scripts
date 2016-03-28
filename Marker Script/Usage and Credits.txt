@@ -7,3 +7,9 @@ USAGE
 - rm1 is the marker
 
 - r1 is the unit
+
+Limitations 
+
+- If the object gets placed inside another vehicle the script no longer works, it however still works if it is a backpack and is placed on a person.
+
+- As the code is a while() loop it may not work with other init scripts
