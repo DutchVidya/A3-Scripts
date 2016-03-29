@@ -28,7 +28,25 @@ _group17 = Creategroup EAST;
 _group18 = Creategroup EAST;
 _group19 = Creategroup EAST;
 _group20 = Creategroup EAST;
-
+_group21 = Creategroup EAST;
+_group22 = Creategroup EAST;
+_group23 = Creategroup EAST;
+_group24= Creategroup EAST;
+_group25 = Creategroup EAST;
+_group26 = Creategroup EAST;
+_group27 = Creategroup EAST;
+_group28 = Creategroup EAST;
+_group29 = Creategroup EAST;
+_group30 = Creategroup EAST;
+_group31 = Creategroup EAST;
+_group32 = Creategroup EAST;
+_group33 = Creategroup EAST;
+_group34 = Creategroup EAST;
+_group35 = Creategroup EAST;
+_group36 = Creategroup EAST;
+_group37 = Creategroup EAST;
+_group38 = Creategroup EAST;
+_group39 = Creategroup EAST;
 
 // ******************************************************************************************************************************************************************************
 
@@ -78,6 +96,28 @@ _man_odds_group17=[100,90,60,40,15];
 _man_odds_group15=[100,90,75,55,30];
 _man_odds_group16=[100,95,70,55,25];
 _man_odds_group17=[100,90,60,40,15];
+_man_odds_group18=[100,95,70,55,25];
+_man_odds_group19=[100,90,60,40,15];
+_man_odds_group20=[100,95,75,55,20];
+_man_odds_group21=[100,90,75,55,30];
+_man_odds_group22=[100,95,70,55,25];
+_man_odds_group23=[100,90,60,40,15];
+_man_odds_group24=[100,95,75,55,20];
+_man_odds_group25=[100,90,75,55,30];
+_man_odds_group26=[100,95,70,55,25];
+_man_odds_group27=[100,90,60,40,15];
+_man_odds_group28=[100,95,75,55,20];
+_man_odds_group29=[100,90,75,55,30];
+_man_odds_group30=[100,95,70,55,25];
+_man_odds_group31=[100,90,60,40,15];
+_man_odds_group32=[100,95,75,55,20];
+_man_odds_group33=[100,90,75,55,30];
+_man_odds_group34=[100,95,70,55,25];
+_man_odds_group35=[100,90,60,40,15];
+_man_odds_group36=[100,90,75,55,30];
+_man_odds_group37=[100,95,70,55,25];
+_man_odds_group38=[100,90,60,40,15];
+_man_odds_group39=[100,90,60,40,15];
 
 
 
@@ -91,8 +131,8 @@ _man_odds_group17=[100,90,60,40,15];
 // The initial delay before any groups are spawned will be 30 seconds + random time of (40 - 30), so 30 seconds + random of 10 seconds.
 // The next group will spawn at 45 seconds + random time of (60 - 45), so 45 seconds + random of 15 seconds, and so on.
 
-_group_spawn_delay_min=[330,30,30,30,30,30,40,30,30,30,30,30,30,30,30,30,30,30,30,30,30]; 
-_group_spawn_delay_max=[450,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60]; 
+_group_spawn_delay_min=[300,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40]; 
+_group_spawn_delay_max=[330,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70]; 
 _sleep_delay = 5;						// This MUST be at least two times less than any of the _group_spawn_delay numbers
 
 // ******************************************************************************************************************************************************************************
