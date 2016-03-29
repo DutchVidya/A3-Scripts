@@ -1,0 +1,10 @@
+Script By : 
+
+USAGE
+
+- Place DynamicAISpawn.sqf in your mission folder
+
+- Place down a trigger and place "Nul = execVM "DynamicAISpawn.sqf";" in the init.
+
+
+Note: You can configure what the script produces, it's well commented so you should be able to work it out. 
