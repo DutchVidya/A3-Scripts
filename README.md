@@ -1,8 +1,6 @@
-﻿# The Project Awesome Script Package 
+﻿# Arma 3 Scripts 
 ﻿
-﻿                                   ![alt tag](http://puu.sh/nVX63/07a3e43fe7.png)
-
-
+﻿                            
 
 Originally just for my scripts (me, DutchVidya). Not long after making this git people started coming forward with ideas, recommendations and tweaks. So I guess this is as close to a PA Script pack as you can get.
 
@@ -15,4 +13,4 @@ Contributors:
 - Rafael09ED
 
 
-This script pack is in no way "offical", at the moment, other than it being a few dudes in PA hocking together nonesense like iPods and Suicide Vests. If it does beocme official though, Oh boy!
+This script pack is in no way "offical", at the moment, other than it being a few dudes in PA hocking together nonesense like iPods and Suicide Vests. It's a hobby for me, and I update it infrequently, if at all. Often I use these scripts for one mission, and nothing else. The scripts provided by others are their own work, and their is no set standard for code or quality other than make sure it won't break a server, and at least comment your files.
