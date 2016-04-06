@@ -9,6 +9,7 @@ Contributors:
 - DutchVidya
 - Mbetts
 - Rafael09ED
+- SydoxX
 
 
 This script pack is in no way "offical", at the moment, other than it being a few dudes in PA hocking together nonesense like iPods and Suicide Vests. It's a hobby for me, and I update it infrequently, if at all. Often I use these scripts for one mission, and nothing else. The scripts provided by others are their own work, and their is no set standard for code or quality other than make sure it won't break a server, and at least comment your files.
